@@ -2,6 +2,7 @@
 ###########################################################################
 
 ### General Info ###
+# NEEDS PYTHON 3.10 ENVIRONMENT TO START GAME
 # H4NGM4N is a hangman game programmed with Python programming language,
 # using tkinter and ttkbootstrap to implement and design the user 
 # interface.
